@@ -1,0 +1,21 @@
+.container{
+    background-color: lightgrey;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 450px;
+}
+
+h3 {
+    color: lightskyblue;
+}
+
+h5 {
+    color: salmon;
+    text-align: center;
+}
